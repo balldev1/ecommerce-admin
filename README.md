@@ -89,3 +89,5 @@ Stripe CL เรียกใช้คำสั่งจาก stripe ผ่า�
 npx shadcn-ui@latest add card => ui card
 
 npm install recharts => ui กราฟ ชาท
+
+https://ecommerce-admin-chi-khaki.vercel.app/
