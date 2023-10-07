@@ -53,3 +53,5 @@ Stripe CL เรียกใช้คำสั่งจาก stripe ผ่า�
 npx shadcn-ui@latest add card => ui card
 
 npm install recharts => ui กราฟ ชาท
+
+https://vercel.com/new/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=ecommerce-admin-6zmkgj5h1-balldev1.vercel.app&projectName=ecommerce-admin&s=https%3A%2F%2Fgithub.com%2Fballdev1%2Fecommerce-admin&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1
